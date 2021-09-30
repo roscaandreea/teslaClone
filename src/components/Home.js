@@ -5,9 +5,10 @@ import Section from './Section';
 function Home() {
     return (
         <Container>
-            <a>
-                <Section />
-            </a>
+            <Section />
+            <Section />
+            <Section />
+            <Section />       
         </Container>
     )
 }
